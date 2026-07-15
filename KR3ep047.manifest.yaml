@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep047/v1
 canonical_location: https://kanripo.org/bkk/KR3ep047/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 孤鶴醫案
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep047_000.yaml, hash: 'sha256:3c939343e573d889e848f84ef7a92ab3788515c679963afeb9cfa311ff3515f5'}
+  - {seq: 0, filename: KR3ep047_000.yaml, hash: 'sha256:c63a55c91468b80f7a29b192e8c0a383d145335663015e903627d7758c1f1c8e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep047_000.markers.yaml, hash: 'sha256:ad95924845e263ed02cabbbc947668524aeea0056c8121aa8e0f366d141efffc'}
+  - {seq: 0, role: markers, filename: assets/KR3ep047_000.markers.yaml, hash: 'sha256:816d9474c5ae21e31650db4ed6fd90e393ac03a6f24f605d7c839e45fc36e503'}
 table_of_contents:
 - ref:
     seq: 0
@@ -430,4 +430,7 @@ table_of_contents:
   label: 四十一汗
   type: section
   level: 1
-hash: sha256:c0082f1cf32f436f3af1e7871549cd9dd6b46c8a9574c9870a7417f6d99d9b8f
+hash: sha256:adec36b96dc7c0caf35884b41bd80a5cfcf4792e65bcb3165a4f46a9af6f8731
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
