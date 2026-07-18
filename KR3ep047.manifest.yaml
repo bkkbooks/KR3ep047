@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ep047_000.yaml, hash: 'sha256:c63a55c91468b80f7a29b192e8c0a383d145335663015e903627d7758c1f1c8e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep047_000.markers.yaml, hash: 'sha256:816d9474c5ae21e31650db4ed6fd90e393ac03a6f24f605d7c839e45fc36e503'}
+  - {seq: 0, role: markers, filename: assets/KR3ep047_000.markers.yaml, hash: 'sha256:7873b69b92e42601a83b59fb23df07d33033b43a433ff7ae3357a586fd4d65af'}
 table_of_contents:
 - ref:
     seq: 0
@@ -430,7 +430,7 @@ table_of_contents:
   label: 四十一汗
   type: section
   level: 1
-hash: sha256:adec36b96dc7c0caf35884b41bd80a5cfcf4792e65bcb3165a4f46a9af6f8731
+hash: sha256:8b846af7e7519b99eee269ad954a7d9fbe3b801a2b46459cce0a31f74b469b72
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
